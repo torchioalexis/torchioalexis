@@ -1,25 +1,11 @@
 <h1>👋 Hi, I’m Alexis Torchio </h1>
-- I'm looking for the possibility as a trainee developer. I'm a self-taught student, proactive and curious. I want to be part of a team where I can learn and collaborate.
+I want to be part of a team where I can learn and contribute.
 
-<h3>Hard skills:</h3>
-- English
-- GO/Golang
-- Python
-- JavaScript
-- CSS/HTML 
-- Backend
-- Frontend
-- Git/GitHub
-- Terminal
-- VS Code
+<h2>Hard skills:</h2>
+- English - Spanish - Python - GO/Golang - JavaScript (ES6+) - CSS/HTML - Backend - Frontend - API Rest - Git/GitHub - Terminal - WSL - VS Code
 
-<h3>Soft skills:</h3>
-- Teamwork
-- Communication
-- Proactive
-- Problem-solving
-- Self-taught
-
+<h2>Soft skills:</h2>
+- Logical Thinking - Teamwork - Communication - Proactive - Problem-solving - Self-taught - Curiosity
 
 <h4>Let's talk https://www.linkedin.com/in/torchioalexis </h4>
 
