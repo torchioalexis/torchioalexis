@@ -2,10 +2,10 @@
 I'm self-taught, proactive, curious, and passionate about what I do. I want to be part of a team where I can learn, contribute and develop my professional skills.
 
 Hard skills:
-- English - Spanish - Python - GO/Golang - SQL - NoSQL - JavaScript (ES6+) - CSS/HTML - API Rest - Git/GitHub - Linux - Terminal - WSL - VS Code - MySQL - GCP
+- English - Spanish - Python - GO/Golang - SQL - NoSQL - JavaScript (ES6+) - CSS/HTML - API Rest - Git/GitHub - Linux - Terminal - WSL - VS Code - Jupyter - MySQL - GCP
 
 Soft skills:
-- Data Analysis - Logical Thinking - Business Intelligence - Teamwork - Communication - Proactive - Problem-solving - Self-taught - Curiosity - Passionate
+- Data Analysis - Mathematical and Statistical Analysis - Logical Thinking - Business Intelligence - Teamwork - Communication - Proactive - Problem-solving - Self-taught - Curiosity - Passionate
 
 <h4>Let's talk https://www.linkedin.com/in/torchioalexis </h4>
 
