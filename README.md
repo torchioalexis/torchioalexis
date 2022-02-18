@@ -1,11 +1,11 @@
 <h1>👋 Hi, I'm Alexis Torchio </h1>
 I'm self-taught, proactive, curious, and passionate about what I do. I want to be part of a team where I can learn, contribute and develop my professional skills.
 
-Hard skills:
+<h3>Hard skills:</h3>
 - English - Spanish - Python - GO/Golang - SQL - NoSQL - JavaScript (ES6+) - CSS/HTML - Django - API - Git/GitHub - Bash - Terminal - WSL - VS Code - MS SQL Server - MySQL - GCP -
 
-Soft skills:
-- Logical Thinking - Teamwork - Communication - Proactive - Problem-solving - Self-taught - Curious - Passionate - Ambitious - Flexible - Friendly
+<h3>Soft skills:</h3>
+- Logical Thinking - Teamwork - Communication - Problem-solving - Ambitious - Flexible - Friendly
 
 <h4>Let's talk https://www.linkedin.com/in/torchioalexis </h4>
 
