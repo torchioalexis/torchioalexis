@@ -2,10 +2,10 @@
 I'm self-taught, proactive, curious, and passionate about what I do. I like challenges and being part of positive teams.
 
 <h3>Hard skills:</h3>
-- English - Spanish - Python - JavaScript - SQL - NoSQL - CSS/HTML - API - Git/GitHub - Bash - Terminal - WSL - VS Code - MS SQL Server - MySQL - GCP -
+- English - Spanish - Python - JavaScript - SQL - NoSQL - CSS/HTML - API - Bash - Terminal - Git - GitHub - MySQL - MS SQL Server - Slack - Discord - VPN - VS Code - Jupyter Notebooks - CGP - WSL - Linux - Windows - Excel - Office - Workspace - Mathematics - Statistics
 
 <h3>Soft skills:</h3>
-- Logical Thinking - Teamwork - Communication - Problem-solving - Ambitious - Flexible - Friendly
+- Logical thinking - Problem-solving - Proactive - Teamwork - Self-taught - Communication - Flexible - Storytelling - Ambitious - Resolute - Friendly - Curious - Passionate - Empathetic - Patient
 
 <h4>Let's talk https://www.linkedin.com/in/torchioalexis </h4>
 
