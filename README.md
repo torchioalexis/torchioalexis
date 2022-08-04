@@ -2,7 +2,7 @@
 I'm self-taught, proactive, curious, and passionate about what I do. I like challenges and being part of positive teams.
 
 <h3>Hard skills:</h3>
-- English - Spanish - Python - JavaScript - SQL - NoSQL - CSS/HTML - API - Bash - Terminal - Git - GitHub - MySQL - MS SQL Server - Slack - Discord - VPN - VS Code - Jupyter Notebooks - CGP - WSL - Linux - Windows - Excel - Office - Workspace - Mathematics - Statistics
+- English - Spanish - Python - JavaScript - SQL - NoSQL - CSS/HTML - API - Bash - Terminal - Git - GitHub - MySQL - MS SQL Server - Slack - Discord - VPN - VS Code - Jupyter Notebooks - CGP - WSL - Linux - Windows - Excel - Office - Workspace - Mathematics - Statistics - Dashbords - Business Inteligence - Data Analysis
 
 <h3>Soft skills:</h3>
 - Logical thinking - Problem-solving - Proactive - Teamwork - Self-taught - Communication - Flexible - Storytelling - Ambitious - Resolute - Friendly - Curious - Passionate - Empathetic - Patient
